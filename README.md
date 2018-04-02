@@ -19,3 +19,9 @@ Hint #1: Here's a URL you can use to get a random Wikipedia article: https://en.
 Hint #2: Here's an entry on using Wikipedia's API: https://www.mediawiki.org/wiki/API:Main_page.
 
 Hint #3: Use this link to experiment with Wikipedia's API.
+
+# codepen
+
+For the purpose of submitting to FreeCodeCamp, this application has also been created in CodePen.
+
+https://codepen.io/jtyrer/full/pLLQyy/

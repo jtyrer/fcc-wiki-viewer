@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Prosto+One');
+
+html{
+  font-family: 'Prosto One', cursive;
+  color:#323232;
+}
+
+#contentWrapper{
+  width:400px;
+  margin: 15% auto;
+  text-align:center;
+}
+h1{
+  margin:0;
+}
+.title{
+  font-size:4em;
+  letter-spacing:18px;
+}
+#searchWrapper{
+  margin:10px 0px 30px 0px;
+}
+#searchTerm{
+  width:93%;
+  padding:7px;
+  border:0.1px solid #bdbdbd;
+  -webkit-box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+-moz-box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+}
+#buttonWrapper{
+  margin-bottom:40px;
+}
+button{
+  width:48%;
+  padding:3px;
+  font-family: 'Poppins', sans-serif;
+  background-color:#e4e4e4;
+  border:1px solid #fff;
+  color:#7e7e7e;
+  cursor:pointer;
+}
+button:hover{
+  border: 1px solid #434343;
+  color:#000;
+}
+p{
+  padding:0;
+  margin:0;
+}
+.resultWrapper{
+  background:#faffff;
+  text-align:left;
+  padding:20px;
+  width:360px;
+  border:0.1px solid #bdbdbd;
+  -webkit-box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+-moz-box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+box-shadow: 3px 3px 5px -1px rgba(117,111,117,1);
+  cursor:pointer;
+  margin-bottom:20px;
+}
+.resultWrapper:hover{
+-webkit-box-shadow: 6px 7px 15px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 7px 15px -4px rgba(0,0,0,0.75);
+box-shadow: 6px 7px 15px -4px rgba(0,0,0,0.75);
+}
+a{
+  text-decoration:none;
+  color:inherit;
+}
+.resultTitle{
+  font-size:1.2em;
+  font-weight:bold;
+  margin-bottom:8px;
+}
